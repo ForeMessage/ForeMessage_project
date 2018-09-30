@@ -1,5 +1,6 @@
 # ForeMessage
 
 product manager: 박규림  
-server: 전준호. 정민교  
-iOS: 이준
+product designer: 황지혜  
+server enginner: 전준호. 정민교  
+iOS enginner: 이준  
